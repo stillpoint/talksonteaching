@@ -1,0 +1,6 @@
+site_name: Shinzen Young - Talks on Teaching
+site_url: https://stillpoint.github.io/talksonteaching
+theme:
+  name: material
+nav:
+    - Home: index.md
