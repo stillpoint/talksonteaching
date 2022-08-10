@@ -1,9 +1,9 @@
 ---
-title: Session 1 - track 1
-summary: Session 1
+title: Disc 1 - Track 1
+summary: Disc 1 - Track 1
 
 ---
-This is the first paragraph of the document.
+
 Major spiritual traditions can basically be analyzed in terms of two fundamental components: there's work that we do on ourselves for ourself and then there's what we put out in the world and the interplay between these two components is a major theme all over the world. 
 Saint Dominic said that what Christianity was about as far as he was concerned, was contemplating and giving to others the fruits of contemplation. In early Buddhism, they speak of liberation on one's hand, but they also talk about the divine abodes. The brahma viharas, which are these positive states of love, compassion and what and so forth. 
 In Mahayana Buddhism, of course, it's very developed, prajna and karuna. And in Vajrayana, the third Buddhist tradition, they speak of prajna in one hand and upaya. Upaya is actually a very rich term in Sanskrit, but one of the meanings is ways of reaching out to people. So, there is this dynamic between these two sides. 

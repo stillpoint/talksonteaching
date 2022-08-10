@@ -3,4 +3,8 @@ site_url: https://stillpoint.github.io/talksonteaching
 theme:
   name: material
 nav:
-    - Disc 1 - track 1: disc1track1.md
+    - Disc 1 - Track 1: disc1track1.md
+    - Disc 1 - Track 2: disc1track2.md
+    - Disc 2 - Track 1: disc2track1.md
+plugins:
+    - search
