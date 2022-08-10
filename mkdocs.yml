@@ -3,4 +3,4 @@ site_url: https://stillpoint.github.io/talksonteaching
 theme:
   name: material
 nav:
-    - Home: index.md
+    - Talks: index.md
