@@ -1,3 +1,8 @@
+---
+title: Disc 4 - Track 1
+summary: Disc 4 - Track 1
+
+---
 okay we're going to talk about teaching one theme that i would like you to consider
 is that the practice the spiritual practice that we do for our self
 work we do on ourself for ourselves and the activity of quote teaching

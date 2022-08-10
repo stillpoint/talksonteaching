@@ -1,3 +1,8 @@
+---
+title: Disc 5 - Track 2
+summary: Disc 5 - Track 2
+
+---
 and conversely therefore if you're going to
 be interested either one-on-one and certainly if you're going to have some
 public type teaching thing you might consider going to people that can equip

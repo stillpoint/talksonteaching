@@ -12,5 +12,8 @@ nav:
     - Disc 4 - Track 3: disc4track3.md
     - Disc 5 - Track 1: disc5track1.md
     - Disc 5 - Track 2: disc5track2.md
+    - Disc 6 - Track 1: disc6track1.md
+    - Disc 7 - Track 1: disc7track1.md
+    - Disc 8 - Track 2: disc8track2.md
 plugins:
     - search
