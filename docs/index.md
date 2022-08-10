@@ -11,4 +11,6 @@
 [Disc 6 - Track 1](disc6track1.md) <br/>
 [Disc 6 - Track 2](disc6track2.md) <br/>
 [Disc 7 - Track 1](disc7track1.md) <br/>
+[Disc 7 - Track 2](disc7track2.md) <br/>
+[Disc 8 - Track 1](disc8track1.md) <br/>
 [Disc 8 - Track 2](disc8track2.md) <br/>
