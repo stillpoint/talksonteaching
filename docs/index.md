@@ -1,4 +1,4 @@
-[Summaries] (summaries.md) <br/>
+[Summaries](summaries.md) <br/>
 [Disc 1 - Track 1](disc1track1.md) <br/>
 [Disc 1 - Track 2](disc1track2.md) <br/>
 [Disc 2 - Track 1](disc2track1.md) <br/>
