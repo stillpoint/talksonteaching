@@ -19,3 +19,8 @@ nav:
     - Disc 8 - Track 2: disc8track2.md
 plugins:
     - search
+
+markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
